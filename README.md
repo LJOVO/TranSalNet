@@ -4,7 +4,7 @@ This repository provides the Pytorch implementation of **TranSalNet: Towards per
 
 ***Overview***: <br>
   
-![arch](https://github.com/LJOVO/TranSalNet/blob/main/Figures/arch.png?raw=true)
+![arch](https://github.com/LJOVO/TranSalNet/blob/master/Figures/arch.png?raw=true)
   
 
 ## Requirements
